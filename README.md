@@ -23,3 +23,5 @@ npm run build
 TRAVOLTA_URL="http://localhost:3000" npm start
 ```
 *NOTE: `npm run start-dev` does not work right now.*
+
+# upgraded stack?
